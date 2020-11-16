@@ -1,0 +1,48 @@
+
+#box1 {
+    background: red;
+    height: 20vh;
+    width: 20rem;
+    transition: width 1s ease-in-out;
+    margin: 1rem;
+}
+#box2 {
+    background: blue;
+    height: 20vh;
+    width: 20rem;
+    transition: width 1s 1s ease-in-out;
+    margin: 1rem;
+}
+#box1:hover {
+    width: 40rem;
+}
+#box2:hover {
+    width: 40rem;
+}
+#main {
+
+}
+#box3 {
+    background: red;
+    height: 20vh;
+    width: 20rem;
+    transition: width 1s ease-in-out;
+}
+#box4 {
+    background: yellow;
+    height: 20vh;
+    width: 20rem;
+    transition: width 1s ease-in-out;
+}
+#box5 {
+    background: blue;
+    height: 20vh;
+    width: 20rem;
+    transition: width 1s ease-in-out;
+}
+#box6 {
+    background: green;
+    height: 20vh;
+    width: 20rem;
+    transition: width 1s ease-in-out;
+}
